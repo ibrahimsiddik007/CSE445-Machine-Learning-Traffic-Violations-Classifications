@@ -44,9 +44,9 @@ Load the dataset and run the code in your preferred environment.
 ## Instructor
 
 Dr. Jilan Samiuddin (JSA)
-Doctor of Philosophy (Ph.D.) in Electrical Engineering, McGill University (2019-2024) 
-Master of Science in Electrical Engineering, University of Calgary (2014-2016) 
-Bachelor of Science in Electrical and Electronic Engineering (EEE), American International University – Bangladesh (AIUB) (2009-2012) 
+Doctor of Philosophy (Ph.D.) in Electrical Engineering, McGill University (2019-2024)  
+Master of Science in Electrical Engineering, University of Calgary (2014-2016)  
+Bachelor of Science in Electrical and Electronic Engineering (EEE), American International University – Bangladesh (AIUB) (2009-2012)  
 
 ## Notes
 
