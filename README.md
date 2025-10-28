@@ -1,6 +1,6 @@
-# CSE 445 Project
+## CSE 445 Project
 
-Overview
+# Overview
 
 This project is part of the CSE 445 course under the instruction of Dr. Jilan Samiuddin (JSA). It utilizes a dataset from OpenML for analysis and experimentation.
 
@@ -10,14 +10,14 @@ The dataset used in this project can be downloaded from the following link:
 
 OpenML Dataset : https://www.openml.org/search?type=data&status=active&id=42132
 
-**Prerequisites**
+# Prerequisites
 
 JavaScript: Ensure JavaScript is enabled in your browser to run the associated application.
 
 A working environment such as Google Colab or a local setup with Python and necessary libraries installed.
 
 
-**Steps to Run**
+# Steps to Run
 
 Download the Dataset: Obtain the dataset from the OpenML link.
 
@@ -41,10 +41,10 @@ Ensure all required dependencies are installed (refer to the project documentati
 
 Load the dataset and run the code in your preferred environment.
 
-**Instructor**
+# Instructor
 
 Dr. Jilan Samiuddin (JSA)
 
-**Notes**
+# Notes
 
 Ensure an active internet connection to access the dataset and Colab resources.
